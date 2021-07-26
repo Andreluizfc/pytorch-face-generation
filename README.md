@@ -1,2 +1,3 @@
 # pytorch-face-generation
-Udacity Deep Learning Nanodegree project
+
+Repository for Udacity Deep Learning Nanodegree project for generating faces with GANs
